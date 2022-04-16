@@ -1,7 +1,7 @@
-# Chiron Rom Archive
+# Android-12
 
-本仓库为Chiron（XiaoMi Mix2）的存档页面（严重bug的Android 12及其之后的ROM， 即2022-02-01后的ROM被保留），ROM均在Releases内，自行下载。
+[**English**](https://github.com/chiron-mix2/Android-12/READMEEN.md)
 
-更老的ROM（如Android11，Android10择时迁移至其他网盘）
+提示：此页面为Chiron(Mix2)Android 12的ROM存档页面，本组织不对任何可能潜在的风险负责。
 
-中国大陆的用户请使用Github镜像站进行下载（如hub.fastgit.xyz）
+中国地区可使用镜像站hub.fastgit.xyz来加速下载。
